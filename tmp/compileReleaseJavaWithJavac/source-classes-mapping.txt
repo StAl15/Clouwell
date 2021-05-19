@@ -1,0 +1,2 @@
+com/example/clouwell/BuildConfig.java
+ com.example.clouwell.BuildConfig
